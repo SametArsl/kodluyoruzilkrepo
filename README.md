@@ -6,16 +6,18 @@ Kodluyoruz Front-End Eğitimi kapsamında oluşturduğumuz ilk repo. İçerisind
 ## Installation
 Öncelikle projeyi clonelayın.
 
-```git clone https://github.com/SametArsl/kodluyoruzilkrepo.git```
+>
+>git clone https://github.com/SametArsl/kodluyoruzilkrepo.git```
+>
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
-
-```cd kodluyoruzilkrepo```
-```code .```
-
+>
+>cd kodluyoruzilkrepo
+>code .```
+>
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, önce lütfen neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
