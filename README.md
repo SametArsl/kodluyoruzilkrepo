@@ -7,7 +7,7 @@ Kodluyoruz Front-End Eğitimi kapsamında oluşturduğumuz ilk repo. İçerisind
 Öncelikle projeyi clonelayın.
 
 >
->git clone https://github.com/SametArsl/kodluyoruzilkrepo.git```
+>git clone https://github.com/SametArsl/kodluyoruzilkrepo.git
 >
 
 ## Usage
